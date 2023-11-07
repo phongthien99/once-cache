@@ -1,4 +1,4 @@
-module once-cache
+module github.com/phongthien99/once-cache
 
 go 1.21.3
 
