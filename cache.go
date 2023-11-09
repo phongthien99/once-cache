@@ -12,9 +12,9 @@ type ICache interface {
 	// Delete a value from the cache with a given key
 	Delete(key string)
 
-	// Clear all values from the cache
-	Clear()
+	// // Clear all values from the cache
+	// Clear()
 
-	// Get the number of items in the cache
-	Size() int
+	// // Get the number of items in the cache
+	// Size() int
 }
